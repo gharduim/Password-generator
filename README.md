@@ -43,6 +43,6 @@ THEN the password is either written to the page
 
 2. I used the `git add`, `git commit`, and `git push` commands to save and push my code to my GitHub repository.
 
-3. My repository is https://github.com/gharduim/Gus-portfolio
+3. My repository is https://github.com/gharduim/Password-generator
 
-4. My live webpage is https://gharduim.github.io/Gus-portfolio/
+4. My live webpage is  https://gharduim.github.io/Password-generator/
