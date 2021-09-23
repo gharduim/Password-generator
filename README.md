@@ -34,7 +34,7 @@ THEN the password is either written to the page
 
 ![Password Generator 1](./screenshots/Password-Generator.jpg "Password Generator")
 
-![Password Generator 2](./screenshots/Password-Generator-working.jpg) "Password Generator working")
+![Password Generator 2](./screenshots/Password-Generator-working.jpg "Password Generator working")
 
 
 ## Github
