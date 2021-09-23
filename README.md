@@ -1,6 +1,6 @@
-# Gus Portfolio
+# Password Generator
 
-## Homework - week 2
+## Homework - week 3
 
 ## Short description
 
@@ -32,9 +32,9 @@ THEN the password is either written to the page
 
 ## Screenshots
 
-![Password Generator 1](./assets/screenshots/Password-Generator.jpg "Password Generator")
+![Password Generator 1](./screenshots/Password-Generator.jpg "Password Generator")
 
-![Password Generator 2](./assets/screenshots/Password-Generator-working.jpg "Password Generator working")
+![Password Generator 2](./screenshots/Password-Generator-working.jpg) "Password Generator working")
 
 
 ## Github
